@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0B0E14"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" stroke="#1E2638" stroke-width="8"/>
+  <path d="M120 380L210 260L290 320L400 140" stroke="#F59E0B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="140" r="28" fill="#FBBF24" stroke="#0B0E14" stroke-width="8"/>
+  <rect x="180" y="360" width="152" height="44" rx="8" fill="#D97706" opacity="0.8"/>
+  <text x="256" y="390" fill="#FFFBEB" font-family="system-ui, sans-serif" font-weight="900" font-size="24" text-anchor="middle" letter-spacing="4">XAUUSD</text>
+</svg>
